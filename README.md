@@ -22,6 +22,6 @@ To run the notebook:
 
 ## 📊 Results
 Includes detection visualizations, auto-generated captions, and summaries.
-!Screenshot(https://github.com/user-attachments/assets/837b2403-e48b-44e0-b479-73535e8fd306)
-!Screenshot(https://github.com/user-attachments/assets/569bf553-9e84-4861-8ddc-732da6d8d0a7)
+![Screenshot](https://github.com/user-attachments/assets/837b2403-e48b-44e0-b479-73535e8fd306)
+![Screenshot](https://github.com/user-attachments/assets/569bf553-9e84-4861-8ddc-732da6d8d0a7)
 
